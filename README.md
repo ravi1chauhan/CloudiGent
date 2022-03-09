@@ -1,34 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Weather App - CloudiGent
+Weather API based application for real-time weather information and also weekly forecasted weather for a given location with additional functionalities.
+## Technologies used
+```Next JS``` and ```SASS```
 
-## Getting Started
+# Demonstration of my Project
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![cg1](https://user-images.githubusercontent.com/73652119/157483666-3e46e7a2-0c9b-482b-b52f-5f108e8e02e1.png)
+![cg2](https://user-images.githubusercontent.com/73652119/157483695-b3b5c10c-9a8e-4592-a6f4-c82531aa8c85.png)
+![cg3](https://user-images.githubusercontent.com/73652119/157483704-abe97948-2e55-4876-9695-720c9854b491.png)
+![cg4](https://user-images.githubusercontent.com/73652119/157483710-005a047c-c465-4223-9f9c-055b9f42c18a.png)
+![cg5](https://user-images.githubusercontent.com/73652119/157483727-94e91a19-68bf-4811-a54a-5beb7f2ff680.png)
+![cg6](https://user-images.githubusercontent.com/73652119/157483739-d5d34f2d-fb6b-47ed-9b28-3c5f2ebf9fd3.png)
